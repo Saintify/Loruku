@@ -52,9 +52,9 @@ pre {
   padding: 10px;
 }
 
-.hidden{
+.hidden {
   visibility: hidden;
-  height:0;
+  height: 0;
 }
 
 .navbar {
@@ -420,6 +420,7 @@ pre {
 
 .grid-3 {
   grid-template-columns: repeat(3, 1fr);
+}
 
 /* Margin */
 .my-1 {
